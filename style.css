@@ -1,0 +1,39 @@
+body {
+    Background-color: rgba(38, 231, 173, 0.493);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+}
+
+div {
+    background-color: honeydew;
+    height: 300px;
+    border-width: 50px;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 10%;
+}
+
+h1 {
+    display: flow-root;
+    color: rgb(251, 152, 152);
+    font-weight: bold;
+    font-size: 2cm;
+}
+
+h2 {
+    color: magenta;
+}
+
+h3 {
+    color: rgb(245, 33, 133);
+}
+
+h4 {
+    color-adjust: rgba(0, 0, 0, 0.411);
+}
